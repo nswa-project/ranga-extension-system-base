@@ -1,0 +1,6 @@
+@ ranga.ext.base
+%api: ranga:1
+%magic: ABI_NSWA_LUA51;ABI_NSWA_LUAJIT;
+%name: Ranga extensions system base
+%ver: 0.1
+%author: NSWA Maintainers
